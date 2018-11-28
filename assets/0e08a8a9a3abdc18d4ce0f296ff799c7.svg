@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="317px" height="44px" viewBox="0 0 317 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>bttn-primary</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFCC00" offset="0%"></stop>
+            <stop stop-color="#F9B800" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.1277704,-2.07168062e-16 L307.87223,2.07168062e-16 C309.655267,-1.2037061e-16 310.30184,0.185651222 310.953691,0.534265408 C311.605543,0.882879593 312.11712,1.39445674 312.465735,2.04630859 C312.814349,2.69816044 313,3.34473292 313,5.1277704 L313,34.8722296 C313,36.6552671 312.814349,37.3018396 312.465735,37.9536914 C312.11712,38.6055433 311.605543,39.1171204 310.953691,39.4657346 C310.30184,39.8143488 309.655267,40 307.87223,40 L5.1277704,40 C3.34473292,40 2.69816044,39.8143488 2.04630859,39.4657346 C1.39445674,39.1171204 0.882879593,38.6055433 0.534265408,37.9536914 C0.185651222,37.3018396 8.02470732e-17,36.6552671 -1.38112041e-16,34.8722296 L1.38112041e-16,5.1277704 C-8.02470732e-17,3.34473292 0.185651222,2.69816044 0.534265408,2.04630859 C0.882879593,1.39445674 1.39445674,0.882879593 2.04630859,0.534265408 C2.69816044,0.185651222 3.34473292,1.2037061e-16 5.1277704,-2.07168062e-16 Z" id="path-2"></path>
+        <filter x="-1.1%" y="-6.2%" width="102.2%" height="117.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.576470588   0 0 0 0 0.584313725   0 0 0 0 0.596078431  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-UA-Log-In" transform="translate(-29.000000, -402.000000)">
+            <g id="App/button/primary_normal" transform="translate(31.000000, 403.000000)">
+                <g id="bttn-primary">
+                    <g id="button-base">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M3.81707317,4 C4.48688934,3.36289976 5.46981735,2.86289976 6.7222647,2.52217482 C7.97471205,2.18144988 9.38858766,2 11.7850276,2 L301.214972,2 C303.611412,2 305.025288,2.18144988 306.277735,2.52217482 C307.530183,2.86289976 308.513111,3.36289976 309.182927,4" id="button-base-copy" stroke-opacity="0.5" stroke="#FFFCEF" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
